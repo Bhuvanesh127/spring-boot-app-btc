@@ -1,0 +1,1 @@
+create table BIT_COIN_OBJ(SERIAL_NO int identity primary key, RECEIVED_AT TIMESTAMP, AMOUNT double);
